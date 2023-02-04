@@ -9,6 +9,10 @@ This version of the addon is only compatible with the main BP-BGT Worldmap Mod o
 
 Changelog:
 
+04 February 2023
+-Modified "worldmap_large.MOZ" and "worldmap_small.MOZ" to fit the new design of the SoD part of the Worldmap. 
+(Thanks to P-Zombie from ArcaneCoast)
+
 08 January 2020:
 -changed the folder to bp-bgt-worldmap for compatibility with Worldmap mod v3.10
 -added readme 
