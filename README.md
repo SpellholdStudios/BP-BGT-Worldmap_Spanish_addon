@@ -16,6 +16,10 @@
 
 <hr>
 
+:warning: **Starting from BP-BGT-Worldmap v12, the language add-ons are no longer required. The localized maps are now available for all supported languages in the main mod package.**
+
+<hr>
+
 
 ## Overview
 
